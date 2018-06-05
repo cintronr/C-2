@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(72): error C2039: 'sort': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\list(15): note: see declaration of 'std'
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(72): error C3861: 'sort': identifier not found
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(74): error C2039: 'sort': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\list(15): note: see declaration of 'std'
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(74): error C3861: 'sort': identifier not found
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(77): error C2039: 'set_intersection': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\list(15): note: see declaration of 'std'
+c:\users\rico's msi\documents\visual studio 2015\projects\wordsearch\source.cpp(77): error C3861: 'set_intersection': identifier not found
