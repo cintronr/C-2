@@ -1,0 +1,6 @@
+﻿  Zombie.cpp
+  Vampire.cpp
+  Source.cpp
+  Humanoid.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\Rico's MSI\documents\visual studio 2015\Projects\OOPoly\Debug\OOPoly.exe for writing
