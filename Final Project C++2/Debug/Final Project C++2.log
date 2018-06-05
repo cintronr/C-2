@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  Unknown compiler version - please run the configure tests and report the results
+c:\users\rico's msi\documents\visual studio 2015\projects\final project c++2\source.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\rico's msi\documents\visual studio 2015\projects\final project c++2\source.cpp(141): warning C4018: '>=': signed/unsigned mismatch
+c:\users\rico's msi\documents\visual studio 2015\projects\final project c++2\source.cpp(164): warning C4018: '>=': signed/unsigned mismatch
+c:\users\rico's msi\documents\visual studio 2015\projects\final project c++2\source.cpp(250): warning C4101: 'x': unreferenced local variable
+  Final Project C++2.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\Final Project C++2\Debug\Final Project C++2.exe
+  Final Project C++2.vcxproj -> C:\Users\Rico's MSI\documents\visual studio 2015\Projects\Final Project C++2\Debug\Final Project C++2.pdb (Full PDB)

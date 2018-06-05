@@ -1,0 +1,2 @@
+Weapons possessed:5
+Zombies killed:10
